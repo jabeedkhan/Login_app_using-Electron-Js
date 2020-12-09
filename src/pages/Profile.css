@@ -1,0 +1,26 @@
+.profile{
+    border:dashed;
+    width: 280px;
+    height: 200px;
+    box-sizing: border-box; 
+    font-family: 'Open Sans', sans-serif; 
+    margin:0;
+    padding:0;
+    margin-left: 20%;
+    border-color: rgb(235, 175, 135);
+    
+}
+.header h2{
+    color: skyblue;
+    margin-left: 5%;
+    
+}
+.image{
+    padding: 20px;
+    top: 30px;
+
+}
+.body{
+    margin-left: 10%;
+    padding: 20px;
+}

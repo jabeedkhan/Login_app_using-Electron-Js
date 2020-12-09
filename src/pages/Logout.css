@@ -1,0 +1,23 @@
+.logout{
+    border:dashed;
+    margin-left: 20%;
+    width: 280px;
+    height: 130px;
+    margin:0;
+    padding:10px;
+    margin-left: 20%;
+    border-color: skyblue;
+
+}
+.log-in h3{
+    color: orange;
+    margin-left: 10%;
+}
+.logout1 a{
+        color:red;
+        text-align: center;
+        margin-left: 20%;
+        padding: 20px;
+        font-size: 25px;
+
+}
